@@ -1,4 +1,7 @@
-# Agile Software Group project
+# TasteVerse - Recipe Recommendation system 
+
+This is a Group project
+
 Our csv file added a id column into the table so it may not be exactly as the Kaggle csv file.
 
 If the website fail to run please npm install these package
